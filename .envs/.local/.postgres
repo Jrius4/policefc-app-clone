@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=police_fc
+POSTGRES_USER=FHVIOpmwWSUYESnkyeiCMntLfQktkHZW
+POSTGRES_PASSWORD=niSqxI4BF4T1yJs3NZTm7XwXfMjEU3lB1vPzcVDNMBlLbG9tYbn246eCFmKKZ5GL

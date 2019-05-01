@@ -1,0 +1,5 @@
+[run]
+include = police_fc/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
